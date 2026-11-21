@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seravyx.com/sitemap.xml
